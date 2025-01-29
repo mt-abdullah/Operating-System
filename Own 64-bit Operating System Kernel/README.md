@@ -90,9 +90,4 @@ docker rmi myos-buildenv -f
 ## Contributing
 Contributions are welcome! Feel free to fork the repository and submit a pull request.
 
-## License
-This project is licensed under the MIT License. See `LICENSE` for details.
-
-## Contact
-For any inquiries, reach out via GitHub Issues or email at `your.email@example.com`.
 
